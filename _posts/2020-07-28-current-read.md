@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Humans Guide to Machine Intelligence"
-author: Sal
+author: Ae Ge
 categories: [ AI, Algorithms ]
 tags: [Artificial Intelligence, Machine Learning,  ]
 image: assets/images/A_Humans_Guide_to_Machine_Intelligence.JPG
