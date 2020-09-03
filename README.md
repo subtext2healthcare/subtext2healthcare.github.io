@@ -7,7 +7,7 @@
 
 ### Copyright
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+Copyright (C) 2020 Ae Ge, www.subtext2heathcare.github.io
 
 **Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
 
